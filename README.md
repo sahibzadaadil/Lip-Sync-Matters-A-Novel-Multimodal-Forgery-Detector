@@ -6,11 +6,12 @@ Code coming soon...
 ## Citation
 If you find this Lip Sync Matters useful for your research, please consider citing the following:
 ```bibtex
-@article{shahzad2022lip,
+@inproceedings{shahzad2022lip,
   title={Lip Sync Matters: A Novel Multimodal Forgery Detector},
-  author={Shahzad, Sahibzada Adil and Hashmi, Ammarah and Khan, Sarwar and Peng, Yan-Tsung and Tsao, Yu and Wang, Hsin-Min}
-  booktitle={Proceedings of 2022 APSIPA Annual Summit and Conference},
-  pages={1882--1889},
-  year={2022}
+  author={Shahzad, Sahibzada Adil and Hashmi, Ammarah and Khan, Sarwar and Peng, Yan-Tsung and Tsao, Yu and Wang, Hsin-Min},
+  booktitle={2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  pages={1885--1892},
+  year={2022},
+  organization={IEEE}
 }
 ```
